@@ -1,0 +1,2 @@
+# responsive-blinkit-site
+ BLINKIT Site Clone is a responsive web development project built using only HTML and CSS. This clone replicates the core layout and design of the original Blinkit website, focusing on clean structure and visual accuracy. Special attention was given to mobile responsiveness, ensuring a seamless and user-friendly experience across all screen sizes. The project showcases strong front-end development skills, including layout design, styling, and media queries for adaptive responsiveness—without relying on any JavaScript or frameworks.
